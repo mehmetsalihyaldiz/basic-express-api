@@ -1,0 +1,28 @@
+{
+    "users": [
+        {
+            "id": "00000000-0000-0000-0000-000000000001",
+            "name": "Bill Gates",
+            "username": "bill",
+            "role": "admin"
+        },
+        {
+            "id": "00000000-0000-0000-0000-000000000002",
+            "name": "Jack Dorsey",
+            "username": "jack",
+            "role": "moderator"
+        },
+        {
+            "id": "00000000-0000-0000-0000-000000000003",
+            "name": "Elon Musk",
+            "username": "elon",
+            "role": "owner"
+        },
+        {
+            "id": "00000000-0000-0000-0000-000000000004",
+            "name": "Parag Agrawal",
+            "username": "parag",
+            "role": "user"
+        }
+    ]
+}
